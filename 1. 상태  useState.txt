@@ -1,0 +1,7 @@
+1. 상태 : useState
+2.사이드 이펙트 : useEffect (독특한 영역)
+Effect -> hookf라는 의미
+3.글로벌 상태관리 : ?
+
+props 문법 : 위에서 아래로만 정보전달이 가능 
+
